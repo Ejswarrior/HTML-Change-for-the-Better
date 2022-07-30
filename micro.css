@@ -1,0 +1,32 @@
+li{
+    display: inline-block;
+    border: solid 1px;
+    width: 90px;
+    height: 30px;
+    background-color: #4C945B;
+    color: white;
+}
+span{
+   
+   margin-right: 5px;
+}
+.big{
+    width: 940px;
+    height: 400px;
+}
+.pix{
+    width: 200px;
+    height: 200px;
+}
+body{
+    text-align: center;
+}
+.divs{
+    display: inline-block;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+.poc{
+    width: 20px;
+    height: 20px;
+}
